@@ -1,4 +1,4 @@
-# FacebookClone_sideproject
+# Facebook Clone
 
 > Build Facebook! You’ll build a large portion of the core Facebook user functionality in this project. Built with Ruby on Rails.
 
@@ -22,15 +22,22 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+
 ### Setup
 
+
 ### Install
+bundle install
 
 ### Usage
+rails s
+
 
 ### Run tests
 
+
 ### Deployment
+
 
 ## Authors
 
