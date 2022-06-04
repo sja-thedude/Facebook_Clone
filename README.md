@@ -1,6 +1,6 @@
 # Facebook Clone
 
-> Build Facebook! You’ll build a large portion of the core Facebook user functionality in this project. Built with Ruby on Rails.
+> This project is to Build Facebook where a large portion of the core Facebook user functionality will be build in this project. Stacks with Ruby on Rails.
 
 ## Built With
 
